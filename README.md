@@ -19,6 +19,25 @@
 javac TodoApp.java
 java TodoApp
 ```
+## 🧪 Sample Output
+
+```
+==== TO-DO LIST ====
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Exit
+Choose option: 1
+Enter task: Drink more Water
+Task added!
+
+==== TO-DO LIST ====
+Choose option: 2
+
+Your Tasks:
+1. Drink more Water
+2. Eat healthly
+```
 
 ## 📂 Project Structure
 

@@ -38,7 +38,7 @@ Your Tasks:
 1. Drink more Water
 2. Eat healthly
 ```
-<img width="202" height="804" alt="image" src="https://github.com/user-attachments/assets/31703677-7a54-4292-a3bf-3acb52513464" />
+<img width="518" height="953" alt="image" src="https://github.com/user-attachments/assets/5555c108-72d9-49ef-ad0b-43643e6286f4" />
 
 ## 📂 Project Structure
 
